@@ -1,5 +1,0 @@
-#EXTM3U 
-#EXT-X-VERSIÓN:3 #EXT-X-TARGETDURATION:10 #EXT-X-MEDIA-SECUENCIA:0 
-#EXT-X-TIPO DE LISTA DE REPRODUCCIÓN:VOD 
-#EXTINF:10.000000, http://ts2.tvcluboficial.com/videos/ultimate_update/0.ts #EXTINF:10.000000, http://ts2.tvcluboficial.com/videos/ultimate_update/1.ts #EXTINF:0.040000, http://ts2.tvcluboficial.com/videos/ultimate_update/2.ts 
-#EXT-X-ENDLIST
